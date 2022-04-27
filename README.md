@@ -1,5 +1,5 @@
  ```
-Welcome to my github profile. My only pleasure is to deliver software.
+Welcome to my github profile.
    _______________                        |*\_/*|________
   |  ___________  |     .-.     .-.      ||_/-\_|______  |
   | |           | |    .****. .****.     | |           | |
